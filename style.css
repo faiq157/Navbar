@@ -1,0 +1,9 @@
+.preloader span{
+    position: absolute;
+    display: block;
+    height: 64px;
+    width: 64px;
+    background: #3fc1f2;
+    border: 1px solid #3fc1f2;
+    border-radius: 100%;
+}
